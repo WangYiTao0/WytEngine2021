@@ -1,0 +1,20 @@
+# Binaries
+**/bin/
+!3rdPart/premake/bin/
+bin-int/
+
+/bin/
+bin-obj/
+!3rdPart/premake/bin/*
+**bin-int/
+
+
+# JF files
+**.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
